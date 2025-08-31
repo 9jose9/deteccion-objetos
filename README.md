@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Object Detection API with YOLOv8 + FastAPI
 
 Esta es una API REST para detección de objetos utilizando el modelo **YOLOv8** de Ultralytics, construida con **FastAPI** y empaquetada en un contenedor **Docker**.
@@ -109,5 +108,4 @@ Por defecto se usa `yolov8n` (modelo pequeño). Es posible usar otro modelo en `
 
 Solo asegúrate de que esté disponible para descargar o inclúyelo localmente en el contenedor.
 
----
 
