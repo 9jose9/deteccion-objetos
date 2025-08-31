@@ -27,8 +27,7 @@ prueba-turing/
 │
 ├── Dockerfile               # Configuración del contenedor Docker
 └── README.md                
-
-````
+```
 
 ---
 
